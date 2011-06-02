@@ -1,0 +1,1 @@
+cf = CloudFiles::Connection.new(username: 'bandmagnet', api_key: 'b1ba4ba05b5b2a8af3e39cda96cf4cb7')
